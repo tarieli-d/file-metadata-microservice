@@ -1,0 +1,47 @@
+/****** Main Styling ******/
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #222;
+  background-color: #ECF0F1;
+  background-color: #ECF0F1;
+  text-align: center;
+}
+
+.container {
+  padding: 0;
+  margin-top: 40px;
+}
+
+.footer {
+  margin-top: 60px;
+}
+
+a {
+  color: #2574A9;
+}
+
+input {
+  display: block;
+  position: relative;
+  margin: 10px auto;
+}
+
+input#button {
+  width: 230px;
+  padding:10px;
+  background-color: #9999;
+  border:1px solid grey;
+}
+.view{
+  position: relative;
+  margin: auto;
+  margin-top: 39px;
+  border: 2px solid grey;
+  border-radius: 14px;
+  background-color: #cce6uy;
+  padding: 20px;
+  width: 60%;
+  min-width: 398px;
+}
