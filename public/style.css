@@ -1,11 +1,11 @@
 /****** Main Styling ******/
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
-  color: #222;
+  color: white;
   background-color: #ECF0F1;
-  background-color: #ECF0F1;
+  background-color: #607d8b;
   text-align: center;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  color: #2574A9;
+  color: #7cf0ff;
 }
 
 input {
@@ -30,18 +30,21 @@ input {
 
 input#button {
   width: 230px;
-  padding:10px;
-  background-color: #9999;
-  border:1px solid grey;
+  padding: 10px;
+  margin-top: 15px;
+  background-color: #337ab7;
+  color: white;
+  border-radius: 0.3rem;
+  border: 1px solid grey;
 }
-.view{
+.view {
   position: relative;
   margin: auto;
   margin-top: 39px;
-  border: 2px solid grey;
+  border: 1px solid grey;
   border-radius: 14px;
-  background-color: #cce6uy;
+  background-color: #8bc34a;
   padding: 20px;
-  width: 60%;
+  width: 50%;
   min-width: 398px;
 }
